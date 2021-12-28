@@ -1,0 +1,219 @@
+C:\Users\justi\OneDrive\Escritorio\Proyecto final - Sistema de facturacion\Proyecto final - Sistema de facturacion\bin\Debug\Proyecto final - Sistema de facturacion.exe.config
+C:\Users\justi\OneDrive\Escritorio\Proyecto final - Sistema de facturacion\Proyecto final - Sistema de facturacion\bin\Debug\Proyecto final - Sistema de facturacion.exe
+C:\Users\justi\OneDrive\Escritorio\Proyecto final - Sistema de facturacion\Proyecto final - Sistema de facturacion\bin\Debug\Proyecto final - Sistema de facturacion.pdb
+C:\Users\justi\OneDrive\Escritorio\Proyecto final - Sistema de facturacion\Proyecto final - Sistema de facturacion\obj\Debug\Proyecto final - Sistema de facturacion.csprojAssemblyReference.cache
+C:\Users\justi\OneDrive\Escritorio\Proyecto final - Sistema de facturacion\Proyecto final - Sistema de facturacion\obj\Debug\Proyecto_final___Sistema_de_facturacion.Form1.resources
+C:\Users\justi\OneDrive\Escritorio\Proyecto final - Sistema de facturacion\Proyecto final - Sistema de facturacion\obj\Debug\Proyecto_final___Sistema_de_facturacion.Properties.Resources.resources
+C:\Users\justi\OneDrive\Escritorio\Proyecto final - Sistema de facturacion\Proyecto final - Sistema de facturacion\obj\Debug\Proyecto final - Sistema de facturacion.csproj.GenerateResource.cache
+C:\Users\justi\OneDrive\Escritorio\Proyecto final - Sistema de facturacion\Proyecto final - Sistema de facturacion\obj\Debug\Proyecto final - Sistema de facturacion.csproj.CoreCompileInputs.cache
+C:\Users\justi\OneDrive\Escritorio\Proyecto final - Sistema de facturacion\Proyecto final - Sistema de facturacion\obj\Debug\Proyecto final - Sistema de facturacion.exe
+C:\Users\justi\OneDrive\Escritorio\Proyecto final - Sistema de facturacion\Proyecto final - Sistema de facturacion\obj\Debug\Proyecto final - Sistema de facturacion.pdb
+C:\Users\justi\OneDrive\Escritorio\Proyecto final - Sistema de facturacion\Proyecto final - Sistema de facturacion\obj\Debug\Proyecto_final___Sistema_de_facturacion.GestionClientes.resources
+C:\Users\justi\OneDrive\Escritorio\Proyecto final - Sistema de facturacion\Proyecto final - Sistema de facturacion\obj\Debug\Proyecto_final___Sistema_de_facturacion.GestionProveedor.resources
+C:\Users\justi\OneDrive\Escritorio\Proyecto final - Sistema de facturacion\Proyecto final - Sistema de facturacion\obj\Debug\Proyecto_final___Sistema_de_facturacion.GestionProductos.resources
+C:\Users\justi\OneDrive\Escritorio\Proyecto final - Sistema de facturacion\Proyecto final - Sistema de facturacion\obj\Debug\Proyecto_final___Sistema_de_facturacion.GestionInventario.resources
+C:\Users\justi\OneDrive\Escritorio\Proyecto final - Sistema de facturacion\Proyecto final - Sistema de facturacion\obj\Debug\Proyecto_final___Sistema_de_facturacion.GestionVentas.resources
+C:\Users\justi\OneDrive\Escritorio\Proyecto final - Sistema de facturacion\Proyecto final - Sistema de facturacion\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Users\justi\OneDrive\Escritorio\Proyecto final - Sistema de facturacion\Proyecto final - Sistema de facturacion\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\justi\OneDrive\Escritorio\Proyecto final - Sistema de facturacion\Proyecto final - Sistema de facturacion\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Users\justi\OneDrive\Escritorio\Proyecto final - Sistema de facturacion\Proyecto final - Sistema de facturacion\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\justi\OneDrive\Escritorio\Proyecto final - Sistema de facturacion\Proyecto final - Sistema de facturacion\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\justi\OneDrive\Escritorio\Proyecto final - Sistema de facturacion\Proyecto final - Sistema de facturacion\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\justi\OneDrive\Escritorio\Proyecto final - Sistema de facturacion\Proyecto final - Sistema de facturacion\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\Users\justi\OneDrive\Escritorio\Proyecto final - Sistema de facturacion\Proyecto final - Sistema de facturacion\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\justi\OneDrive\Escritorio\Proyecto final - Sistema de facturacion\Proyecto final - Sistema de facturacion\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\justi\OneDrive\Escritorio\Proyecto final - Sistema de facturacion\Proyecto final - Sistema de facturacion\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\justi\OneDrive\Escritorio\Proyecto final - Sistema de facturacion\Proyecto final - Sistema de facturacion\bin\Debug\EnvDTE.dll
+C:\Users\justi\OneDrive\Escritorio\Proyecto final - Sistema de facturacion\Proyecto final - Sistema de facturacion\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+C:\Users\justi\OneDrive\Escritorio\Proyecto final - Sistema de facturacion\Proyecto final - Sistema de facturacion\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+C:\Users\justi\OneDrive\Escritorio\Proyecto final - Sistema de facturacion\Proyecto final - Sistema de facturacion\bin\Debug\stdole.dll
+C:\Users\justi\OneDrive\Escritorio\Proyecto final - Sistema de facturacion\Proyecto final - Sistema de facturacion\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+C:\Users\justi\OneDrive\Escritorio\Proyecto final - Sistema de facturacion\Proyecto final - Sistema de facturacion\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+C:\Users\justi\OneDrive\Escritorio\Proyecto final - Sistema de facturacion\Proyecto final - Sistema de facturacion\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+C:\Users\justi\OneDrive\Escritorio\Proyecto final - Sistema de facturacion\Proyecto final - Sistema de facturacion\bin\Debug\Microsoft.MSXML.dll
+C:\Users\justi\OneDrive\Escritorio\Proyecto final - Sistema de facturacion\Proyecto final - Sistema de facturacion\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\justi\OneDrive\Escritorio\Proyecto final - Sistema de facturacion\Proyecto final - Sistema de facturacion\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\justi\OneDrive\Escritorio\Proyecto final - Sistema de facturacion\Proyecto final - Sistema de facturacion\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\justi\OneDrive\Escritorio\Proyecto final - Sistema de facturacion\Proyecto final - Sistema de facturacion\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\justi\OneDrive\Escritorio\Proyecto final - Sistema de facturacion\Proyecto final - Sistema de facturacion\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\justi\OneDrive\Escritorio\Proyecto final - Sistema de facturacion\Proyecto final - Sistema de facturacion\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\justi\OneDrive\Escritorio\Proyecto final - Sistema de facturacion\Proyecto final - Sistema de facturacion\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\justi\OneDrive\Escritorio\Proyecto final - Sistema de facturacion\Proyecto final - Sistema de facturacion\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\justi\OneDrive\Escritorio\Proyecto final - Sistema de facturacion\Proyecto final - Sistema de facturacion\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\justi\OneDrive\Escritorio\Proyecto final - Sistema de facturacion\Proyecto final - Sistema de facturacion\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\justi\OneDrive\Escritorio\Proyecto final - Sistema de facturacion\Proyecto final - Sistema de facturacion\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\justi\OneDrive\Escritorio\Proyecto final - Sistema de facturacion\Proyecto final - Sistema de facturacion\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\justi\OneDrive\Escritorio\Proyecto final - Sistema de facturacion\Proyecto final - Sistema de facturacion\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\justi\OneDrive\Escritorio\Proyecto final - Sistema de facturacion\Proyecto final - Sistema de facturacion\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\justi\OneDrive\Escritorio\Proyecto final - Sistema de facturacion\Proyecto final - Sistema de facturacion\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\justi\OneDrive\Escritorio\Proyecto final - Sistema de facturacion\Proyecto final - Sistema de facturacion\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\justi\OneDrive\Escritorio\Proyecto final - Sistema de facturacion\Proyecto final - Sistema de facturacion\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\justi\OneDrive\Escritorio\Proyecto final - Sistema de facturacion\Proyecto final - Sistema de facturacion\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\justi\OneDrive\Escritorio\Proyecto final - Sistema de facturacion\Proyecto final - Sistema de facturacion\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\justi\OneDrive\Escritorio\Proyecto final - Sistema de facturacion\Proyecto final - Sistema de facturacion\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\justi\OneDrive\Escritorio\Proyecto final - Sistema de facturacion\Proyecto final - Sistema de facturacion\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\justi\OneDrive\Escritorio\Proyecto final - Sistema de facturacion\Proyecto final - Sistema de facturacion\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\justi\OneDrive\Escritorio\Proyecto final - Sistema de facturacion\Proyecto final - Sistema de facturacion\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\justi\OneDrive\Escritorio\Proyecto final - Sistema de facturacion\Proyecto final - Sistema de facturacion\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\justi\OneDrive\Escritorio\Proyecto final - Sistema de facturacion\Proyecto final - Sistema de facturacion\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\justi\OneDrive\Escritorio\Proyecto final - Sistema de facturacion\Proyecto final - Sistema de facturacion\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\justi\OneDrive\Escritorio\Proyecto final - Sistema de facturacion\Proyecto final - Sistema de facturacion\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\justi\OneDrive\Escritorio\Proyecto final - Sistema de facturacion\Proyecto final - Sistema de facturacion\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\justi\OneDrive\Escritorio\Proyecto final - Sistema de facturacion\Proyecto final - Sistema de facturacion\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\justi\OneDrive\Escritorio\Proyecto final - Sistema de facturacion\Proyecto final - Sistema de facturacion\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\justi\OneDrive\Escritorio\Proyecto final - Sistema de facturacion\Proyecto final - Sistema de facturacion\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\justi\OneDrive\Escritorio\Proyecto final - Sistema de facturacion\Proyecto final - Sistema de facturacion\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\justi\OneDrive\Escritorio\Proyecto final - Sistema de facturacion\Proyecto final - Sistema de facturacion\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\justi\OneDrive\Escritorio\Proyecto final - Sistema de facturacion\Proyecto final - Sistema de facturacion\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\justi\OneDrive\Escritorio\Proyecto final - Sistema de facturacion\Proyecto final - Sistema de facturacion\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\justi\OneDrive\Escritorio\Proyecto final - Sistema de facturacion\Proyecto final - Sistema de facturacion\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\justi\OneDrive\Escritorio\Proyecto final - Sistema de facturacion\Proyecto final - Sistema de facturacion\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\justi\OneDrive\Escritorio\Proyecto final - Sistema de facturacion\Proyecto final - Sistema de facturacion\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\justi\OneDrive\Escritorio\Proyecto final - Sistema de facturacion\Proyecto final - Sistema de facturacion\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\justi\OneDrive\Escritorio\Proyecto final - Sistema de facturacion\Proyecto final - Sistema de facturacion\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\justi\OneDrive\Escritorio\Proyecto final - Sistema de facturacion\Proyecto final - Sistema de facturacion\obj\Debug\Proyecto final - Sistema de facturacion.csproj.CopyComplete
+C:\Users\justi\OneDrive\Escritorio\Proyecto final - Sistema de facturacion\Proyecto final - Sistema de facturacion\obj\Debug\Proyecto_final___Sistema_de_facturacion.mostrarInforme.resources
+C:\Users\justi\OneDrive\Escritorio\Proyecto final - Sistema de facturacion\Proyecto final - Sistema de facturacion\obj\Debug\RdlCompile.cache
+C:\Users\justi\OneDrive\Escritorio\Proyecto final - Sistema de facturacion\Proyecto final - Sistema de facturacion\obj\Debug\RdlCompile.compiled
+C:\Users\justi\OneDrive\Escritorio\Mis clases\Tercer cuatrimestre\Programacion I\Proyecto final - Sistema de facturacion\Proyecto final - Sistema de facturacion\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Users\justi\OneDrive\Escritorio\Mis clases\Tercer cuatrimestre\Programacion I\Proyecto final - Sistema de facturacion\Proyecto final - Sistema de facturacion\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\justi\OneDrive\Escritorio\Mis clases\Tercer cuatrimestre\Programacion I\Proyecto final - Sistema de facturacion\Proyecto final - Sistema de facturacion\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Users\justi\OneDrive\Escritorio\Mis clases\Tercer cuatrimestre\Programacion I\Proyecto final - Sistema de facturacion\Proyecto final - Sistema de facturacion\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\justi\OneDrive\Escritorio\Mis clases\Tercer cuatrimestre\Programacion I\Proyecto final - Sistema de facturacion\Proyecto final - Sistema de facturacion\bin\Debug\Proyecto final - Sistema de facturacion.exe.config
+C:\Users\justi\OneDrive\Escritorio\Mis clases\Tercer cuatrimestre\Programacion I\Proyecto final - Sistema de facturacion\Proyecto final - Sistema de facturacion\bin\Debug\Proyecto final - Sistema de facturacion.exe
+C:\Users\justi\OneDrive\Escritorio\Mis clases\Tercer cuatrimestre\Programacion I\Proyecto final - Sistema de facturacion\Proyecto final - Sistema de facturacion\bin\Debug\Proyecto final - Sistema de facturacion.pdb
+C:\Users\justi\OneDrive\Escritorio\Mis clases\Tercer cuatrimestre\Programacion I\Proyecto final - Sistema de facturacion\Proyecto final - Sistema de facturacion\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\justi\OneDrive\Escritorio\Mis clases\Tercer cuatrimestre\Programacion I\Proyecto final - Sistema de facturacion\Proyecto final - Sistema de facturacion\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\justi\OneDrive\Escritorio\Mis clases\Tercer cuatrimestre\Programacion I\Proyecto final - Sistema de facturacion\Proyecto final - Sistema de facturacion\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\Users\justi\OneDrive\Escritorio\Mis clases\Tercer cuatrimestre\Programacion I\Proyecto final - Sistema de facturacion\Proyecto final - Sistema de facturacion\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\justi\OneDrive\Escritorio\Mis clases\Tercer cuatrimestre\Programacion I\Proyecto final - Sistema de facturacion\Proyecto final - Sistema de facturacion\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\justi\OneDrive\Escritorio\Mis clases\Tercer cuatrimestre\Programacion I\Proyecto final - Sistema de facturacion\Proyecto final - Sistema de facturacion\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\justi\OneDrive\Escritorio\Mis clases\Tercer cuatrimestre\Programacion I\Proyecto final - Sistema de facturacion\Proyecto final - Sistema de facturacion\bin\Debug\EnvDTE.dll
+C:\Users\justi\OneDrive\Escritorio\Mis clases\Tercer cuatrimestre\Programacion I\Proyecto final - Sistema de facturacion\Proyecto final - Sistema de facturacion\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+C:\Users\justi\OneDrive\Escritorio\Mis clases\Tercer cuatrimestre\Programacion I\Proyecto final - Sistema de facturacion\Proyecto final - Sistema de facturacion\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+C:\Users\justi\OneDrive\Escritorio\Mis clases\Tercer cuatrimestre\Programacion I\Proyecto final - Sistema de facturacion\Proyecto final - Sistema de facturacion\bin\Debug\stdole.dll
+C:\Users\justi\OneDrive\Escritorio\Mis clases\Tercer cuatrimestre\Programacion I\Proyecto final - Sistema de facturacion\Proyecto final - Sistema de facturacion\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+C:\Users\justi\OneDrive\Escritorio\Mis clases\Tercer cuatrimestre\Programacion I\Proyecto final - Sistema de facturacion\Proyecto final - Sistema de facturacion\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+C:\Users\justi\OneDrive\Escritorio\Mis clases\Tercer cuatrimestre\Programacion I\Proyecto final - Sistema de facturacion\Proyecto final - Sistema de facturacion\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+C:\Users\justi\OneDrive\Escritorio\Mis clases\Tercer cuatrimestre\Programacion I\Proyecto final - Sistema de facturacion\Proyecto final - Sistema de facturacion\bin\Debug\Microsoft.MSXML.dll
+C:\Users\justi\OneDrive\Escritorio\Mis clases\Tercer cuatrimestre\Programacion I\Proyecto final - Sistema de facturacion\Proyecto final - Sistema de facturacion\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\justi\OneDrive\Escritorio\Mis clases\Tercer cuatrimestre\Programacion I\Proyecto final - Sistema de facturacion\Proyecto final - Sistema de facturacion\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\justi\OneDrive\Escritorio\Mis clases\Tercer cuatrimestre\Programacion I\Proyecto final - Sistema de facturacion\Proyecto final - Sistema de facturacion\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\justi\OneDrive\Escritorio\Mis clases\Tercer cuatrimestre\Programacion I\Proyecto final - Sistema de facturacion\Proyecto final - Sistema de facturacion\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\justi\OneDrive\Escritorio\Mis clases\Tercer cuatrimestre\Programacion I\Proyecto final - Sistema de facturacion\Proyecto final - Sistema de facturacion\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\justi\OneDrive\Escritorio\Mis clases\Tercer cuatrimestre\Programacion I\Proyecto final - Sistema de facturacion\Proyecto final - Sistema de facturacion\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\justi\OneDrive\Escritorio\Mis clases\Tercer cuatrimestre\Programacion I\Proyecto final - Sistema de facturacion\Proyecto final - Sistema de facturacion\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\justi\OneDrive\Escritorio\Mis clases\Tercer cuatrimestre\Programacion I\Proyecto final - Sistema de facturacion\Proyecto final - Sistema de facturacion\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\justi\OneDrive\Escritorio\Mis clases\Tercer cuatrimestre\Programacion I\Proyecto final - Sistema de facturacion\Proyecto final - Sistema de facturacion\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\justi\OneDrive\Escritorio\Mis clases\Tercer cuatrimestre\Programacion I\Proyecto final - Sistema de facturacion\Proyecto final - Sistema de facturacion\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\justi\OneDrive\Escritorio\Mis clases\Tercer cuatrimestre\Programacion I\Proyecto final - Sistema de facturacion\Proyecto final - Sistema de facturacion\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\justi\OneDrive\Escritorio\Mis clases\Tercer cuatrimestre\Programacion I\Proyecto final - Sistema de facturacion\Proyecto final - Sistema de facturacion\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\justi\OneDrive\Escritorio\Mis clases\Tercer cuatrimestre\Programacion I\Proyecto final - Sistema de facturacion\Proyecto final - Sistema de facturacion\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\justi\OneDrive\Escritorio\Mis clases\Tercer cuatrimestre\Programacion I\Proyecto final - Sistema de facturacion\Proyecto final - Sistema de facturacion\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\justi\OneDrive\Escritorio\Mis clases\Tercer cuatrimestre\Programacion I\Proyecto final - Sistema de facturacion\Proyecto final - Sistema de facturacion\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\justi\OneDrive\Escritorio\Mis clases\Tercer cuatrimestre\Programacion I\Proyecto final - Sistema de facturacion\Proyecto final - Sistema de facturacion\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\justi\OneDrive\Escritorio\Mis clases\Tercer cuatrimestre\Programacion I\Proyecto final - Sistema de facturacion\Proyecto final - Sistema de facturacion\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\justi\OneDrive\Escritorio\Mis clases\Tercer cuatrimestre\Programacion I\Proyecto final - Sistema de facturacion\Proyecto final - Sistema de facturacion\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\justi\OneDrive\Escritorio\Mis clases\Tercer cuatrimestre\Programacion I\Proyecto final - Sistema de facturacion\Proyecto final - Sistema de facturacion\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\justi\OneDrive\Escritorio\Mis clases\Tercer cuatrimestre\Programacion I\Proyecto final - Sistema de facturacion\Proyecto final - Sistema de facturacion\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\justi\OneDrive\Escritorio\Mis clases\Tercer cuatrimestre\Programacion I\Proyecto final - Sistema de facturacion\Proyecto final - Sistema de facturacion\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\justi\OneDrive\Escritorio\Mis clases\Tercer cuatrimestre\Programacion I\Proyecto final - Sistema de facturacion\Proyecto final - Sistema de facturacion\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\justi\OneDrive\Escritorio\Mis clases\Tercer cuatrimestre\Programacion I\Proyecto final - Sistema de facturacion\Proyecto final - Sistema de facturacion\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\justi\OneDrive\Escritorio\Mis clases\Tercer cuatrimestre\Programacion I\Proyecto final - Sistema de facturacion\Proyecto final - Sistema de facturacion\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\justi\OneDrive\Escritorio\Mis clases\Tercer cuatrimestre\Programacion I\Proyecto final - Sistema de facturacion\Proyecto final - Sistema de facturacion\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\justi\OneDrive\Escritorio\Mis clases\Tercer cuatrimestre\Programacion I\Proyecto final - Sistema de facturacion\Proyecto final - Sistema de facturacion\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\justi\OneDrive\Escritorio\Mis clases\Tercer cuatrimestre\Programacion I\Proyecto final - Sistema de facturacion\Proyecto final - Sistema de facturacion\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\justi\OneDrive\Escritorio\Mis clases\Tercer cuatrimestre\Programacion I\Proyecto final - Sistema de facturacion\Proyecto final - Sistema de facturacion\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\justi\OneDrive\Escritorio\Mis clases\Tercer cuatrimestre\Programacion I\Proyecto final - Sistema de facturacion\Proyecto final - Sistema de facturacion\obj\Debug\Proyecto final - Sistema de facturacion.csprojAssemblyReference.cache
+C:\Users\justi\OneDrive\Escritorio\Mis clases\Tercer cuatrimestre\Programacion I\Proyecto final - Sistema de facturacion\Proyecto final - Sistema de facturacion\obj\Debug\Proyecto_final___Sistema_de_facturacion.Form1.resources
+C:\Users\justi\OneDrive\Escritorio\Mis clases\Tercer cuatrimestre\Programacion I\Proyecto final - Sistema de facturacion\Proyecto final - Sistema de facturacion\obj\Debug\Proyecto_final___Sistema_de_facturacion.GestionClientes.resources
+C:\Users\justi\OneDrive\Escritorio\Mis clases\Tercer cuatrimestre\Programacion I\Proyecto final - Sistema de facturacion\Proyecto final - Sistema de facturacion\obj\Debug\Proyecto_final___Sistema_de_facturacion.GestionInventario.resources
+C:\Users\justi\OneDrive\Escritorio\Mis clases\Tercer cuatrimestre\Programacion I\Proyecto final - Sistema de facturacion\Proyecto final - Sistema de facturacion\obj\Debug\Proyecto_final___Sistema_de_facturacion.GestionProductos.resources
+C:\Users\justi\OneDrive\Escritorio\Mis clases\Tercer cuatrimestre\Programacion I\Proyecto final - Sistema de facturacion\Proyecto final - Sistema de facturacion\obj\Debug\Proyecto_final___Sistema_de_facturacion.GestionProveedor.resources
+C:\Users\justi\OneDrive\Escritorio\Mis clases\Tercer cuatrimestre\Programacion I\Proyecto final - Sistema de facturacion\Proyecto final - Sistema de facturacion\obj\Debug\Proyecto_final___Sistema_de_facturacion.GestionVentas.resources
+C:\Users\justi\OneDrive\Escritorio\Mis clases\Tercer cuatrimestre\Programacion I\Proyecto final - Sistema de facturacion\Proyecto final - Sistema de facturacion\obj\Debug\Proyecto_final___Sistema_de_facturacion.mostrarInforme.resources
+C:\Users\justi\OneDrive\Escritorio\Mis clases\Tercer cuatrimestre\Programacion I\Proyecto final - Sistema de facturacion\Proyecto final - Sistema de facturacion\obj\Debug\Proyecto_final___Sistema_de_facturacion.Properties.Resources.resources
+C:\Users\justi\OneDrive\Escritorio\Mis clases\Tercer cuatrimestre\Programacion I\Proyecto final - Sistema de facturacion\Proyecto final - Sistema de facturacion\obj\Debug\Proyecto final - Sistema de facturacion.csproj.GenerateResource.cache
+C:\Users\justi\OneDrive\Escritorio\Mis clases\Tercer cuatrimestre\Programacion I\Proyecto final - Sistema de facturacion\Proyecto final - Sistema de facturacion\obj\Debug\RdlCompile.cache
+C:\Users\justi\OneDrive\Escritorio\Mis clases\Tercer cuatrimestre\Programacion I\Proyecto final - Sistema de facturacion\Proyecto final - Sistema de facturacion\obj\Debug\RdlCompile.compiled
+C:\Users\justi\OneDrive\Escritorio\Mis clases\Tercer cuatrimestre\Programacion I\Proyecto final - Sistema de facturacion\Proyecto final - Sistema de facturacion\obj\Debug\Proyecto final - Sistema de facturacion.csproj.CoreCompileInputs.cache
+C:\Users\justi\OneDrive\Escritorio\Mis clases\Tercer cuatrimestre\Programacion I\Proyecto final - Sistema de facturacion\Proyecto final - Sistema de facturacion\obj\Debug\Proyecto final - Sistema de facturacion.csproj.CopyComplete
+C:\Users\justi\OneDrive\Escritorio\Mis clases\Tercer cuatrimestre\Programacion I\Proyecto final - Sistema de facturacion\Proyecto final - Sistema de facturacion\obj\Debug\Proyecto final - Sistema de facturacion.exe
+C:\Users\justi\OneDrive\Escritorio\Mis clases\Tercer cuatrimestre\Programacion I\Proyecto final - Sistema de facturacion\Proyecto final - Sistema de facturacion\obj\Debug\Proyecto final - Sistema de facturacion.pdb
+C:\Users\justi\OneDrive\Escritorio\Mi Directorio\Mis clases\Tercer cuatrimestre\Programacion I\Proyecto final - Sistema de facturacion\Proyecto final - Sistema de facturacion\obj\Debug\Proyecto final - Sistema de facturacion.exe
+C:\Users\justi\OneDrive\Escritorio\Mi Directorio\Mis clases\Tercer cuatrimestre\Programacion I\Proyecto final - Sistema de facturacion\Proyecto final - Sistema de facturacion\obj\Debug\Proyecto final - Sistema de facturacion.pdb
+C:\Users\justi\OneDrive\Escritorio\proyecto subir\Proyecto final - Sistema de facturacion\obj\Debug\Proyecto final - Sistema de facturacion.csproj.AssemblyReference.cache
+C:\Users\justi\OneDrive\Escritorio\proyecto subir\Proyecto final - Sistema de facturacion\obj\Debug\Proyecto final - Sistema de facturacion.exe
+C:\Users\justi\OneDrive\Escritorio\proyecto subir\Proyecto final - Sistema de facturacion\obj\Debug\Proyecto final - Sistema de facturacion.pdb
+C:\Users\justi\OneDrive\Escritorio\proyecto subir\Proyecto final - Sistema de facturacion\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Users\justi\OneDrive\Escritorio\proyecto subir\Proyecto final - Sistema de facturacion\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\justi\OneDrive\Escritorio\proyecto subir\Proyecto final - Sistema de facturacion\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Users\justi\OneDrive\Escritorio\proyecto subir\Proyecto final - Sistema de facturacion\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\justi\OneDrive\Escritorio\proyecto subir\Proyecto final - Sistema de facturacion\bin\Debug\Proyecto final - Sistema de facturacion.exe.config
+C:\Users\justi\OneDrive\Escritorio\proyecto subir\Proyecto final - Sistema de facturacion\bin\Debug\Proyecto final - Sistema de facturacion.exe
+C:\Users\justi\OneDrive\Escritorio\proyecto subir\Proyecto final - Sistema de facturacion\bin\Debug\Proyecto final - Sistema de facturacion.pdb
+C:\Users\justi\OneDrive\Escritorio\proyecto subir\Proyecto final - Sistema de facturacion\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\justi\OneDrive\Escritorio\proyecto subir\Proyecto final - Sistema de facturacion\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\justi\OneDrive\Escritorio\proyecto subir\Proyecto final - Sistema de facturacion\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\Users\justi\OneDrive\Escritorio\proyecto subir\Proyecto final - Sistema de facturacion\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\justi\OneDrive\Escritorio\proyecto subir\Proyecto final - Sistema de facturacion\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\justi\OneDrive\Escritorio\proyecto subir\Proyecto final - Sistema de facturacion\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\justi\OneDrive\Escritorio\proyecto subir\Proyecto final - Sistema de facturacion\bin\Debug\EnvDTE.dll
+C:\Users\justi\OneDrive\Escritorio\proyecto subir\Proyecto final - Sistema de facturacion\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+C:\Users\justi\OneDrive\Escritorio\proyecto subir\Proyecto final - Sistema de facturacion\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+C:\Users\justi\OneDrive\Escritorio\proyecto subir\Proyecto final - Sistema de facturacion\bin\Debug\stdole.dll
+C:\Users\justi\OneDrive\Escritorio\proyecto subir\Proyecto final - Sistema de facturacion\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+C:\Users\justi\OneDrive\Escritorio\proyecto subir\Proyecto final - Sistema de facturacion\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+C:\Users\justi\OneDrive\Escritorio\proyecto subir\Proyecto final - Sistema de facturacion\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+C:\Users\justi\OneDrive\Escritorio\proyecto subir\Proyecto final - Sistema de facturacion\bin\Debug\Microsoft.MSXML.dll
+C:\Users\justi\OneDrive\Escritorio\proyecto subir\Proyecto final - Sistema de facturacion\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\justi\OneDrive\Escritorio\proyecto subir\Proyecto final - Sistema de facturacion\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\justi\OneDrive\Escritorio\proyecto subir\Proyecto final - Sistema de facturacion\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\justi\OneDrive\Escritorio\proyecto subir\Proyecto final - Sistema de facturacion\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\justi\OneDrive\Escritorio\proyecto subir\Proyecto final - Sistema de facturacion\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\justi\OneDrive\Escritorio\proyecto subir\Proyecto final - Sistema de facturacion\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\justi\OneDrive\Escritorio\proyecto subir\Proyecto final - Sistema de facturacion\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\justi\OneDrive\Escritorio\proyecto subir\Proyecto final - Sistema de facturacion\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\justi\OneDrive\Escritorio\proyecto subir\Proyecto final - Sistema de facturacion\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\justi\OneDrive\Escritorio\proyecto subir\Proyecto final - Sistema de facturacion\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\justi\OneDrive\Escritorio\proyecto subir\Proyecto final - Sistema de facturacion\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\justi\OneDrive\Escritorio\proyecto subir\Proyecto final - Sistema de facturacion\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\justi\OneDrive\Escritorio\proyecto subir\Proyecto final - Sistema de facturacion\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\justi\OneDrive\Escritorio\proyecto subir\Proyecto final - Sistema de facturacion\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\justi\OneDrive\Escritorio\proyecto subir\Proyecto final - Sistema de facturacion\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\justi\OneDrive\Escritorio\proyecto subir\Proyecto final - Sistema de facturacion\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\justi\OneDrive\Escritorio\proyecto subir\Proyecto final - Sistema de facturacion\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\justi\OneDrive\Escritorio\proyecto subir\Proyecto final - Sistema de facturacion\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\justi\OneDrive\Escritorio\proyecto subir\Proyecto final - Sistema de facturacion\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\justi\OneDrive\Escritorio\proyecto subir\Proyecto final - Sistema de facturacion\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\justi\OneDrive\Escritorio\proyecto subir\Proyecto final - Sistema de facturacion\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\justi\OneDrive\Escritorio\proyecto subir\Proyecto final - Sistema de facturacion\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\justi\OneDrive\Escritorio\proyecto subir\Proyecto final - Sistema de facturacion\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\justi\OneDrive\Escritorio\proyecto subir\Proyecto final - Sistema de facturacion\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\justi\OneDrive\Escritorio\proyecto subir\Proyecto final - Sistema de facturacion\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\justi\OneDrive\Escritorio\proyecto subir\Proyecto final - Sistema de facturacion\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\justi\OneDrive\Escritorio\proyecto subir\Proyecto final - Sistema de facturacion\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\justi\OneDrive\Escritorio\proyecto subir\Proyecto final - Sistema de facturacion\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\justi\OneDrive\Escritorio\proyecto subir\Proyecto final - Sistema de facturacion\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\justi\OneDrive\Escritorio\proyecto subir\Proyecto final - Sistema de facturacion\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\justi\OneDrive\Escritorio\proyecto subir\Proyecto final - Sistema de facturacion\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\justi\OneDrive\Escritorio\proyecto subir\Proyecto final - Sistema de facturacion\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\justi\OneDrive\Escritorio\proyecto subir\Proyecto final - Sistema de facturacion\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\justi\OneDrive\Escritorio\proyecto subir\Proyecto final - Sistema de facturacion\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\justi\OneDrive\Escritorio\proyecto subir\Proyecto final - Sistema de facturacion\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\justi\OneDrive\Escritorio\proyecto subir\Proyecto final - Sistema de facturacion\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\justi\OneDrive\Escritorio\proyecto subir\Proyecto final - Sistema de facturacion\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\justi\OneDrive\Escritorio\proyecto subir\Proyecto final - Sistema de facturacion\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\justi\OneDrive\Escritorio\proyecto subir\Proyecto final - Sistema de facturacion\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\justi\OneDrive\Escritorio\proyecto subir\Proyecto final - Sistema de facturacion\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\justi\OneDrive\Escritorio\proyecto subir\Proyecto final - Sistema de facturacion\obj\Debug\Proyecto_final___Sistema_de_facturacion.Form1.resources
+C:\Users\justi\OneDrive\Escritorio\proyecto subir\Proyecto final - Sistema de facturacion\obj\Debug\Proyecto_final___Sistema_de_facturacion.GestionClientes.resources
+C:\Users\justi\OneDrive\Escritorio\proyecto subir\Proyecto final - Sistema de facturacion\obj\Debug\Proyecto_final___Sistema_de_facturacion.GestionInventario.resources
+C:\Users\justi\OneDrive\Escritorio\proyecto subir\Proyecto final - Sistema de facturacion\obj\Debug\Proyecto_final___Sistema_de_facturacion.GestionProductos.resources
+C:\Users\justi\OneDrive\Escritorio\proyecto subir\Proyecto final - Sistema de facturacion\obj\Debug\Proyecto_final___Sistema_de_facturacion.GestionProveedor.resources
+C:\Users\justi\OneDrive\Escritorio\proyecto subir\Proyecto final - Sistema de facturacion\obj\Debug\Proyecto_final___Sistema_de_facturacion.GestionVentas.resources
+C:\Users\justi\OneDrive\Escritorio\proyecto subir\Proyecto final - Sistema de facturacion\obj\Debug\Proyecto_final___Sistema_de_facturacion.mostrarInforme.resources
+C:\Users\justi\OneDrive\Escritorio\proyecto subir\Proyecto final - Sistema de facturacion\obj\Debug\Proyecto_final___Sistema_de_facturacion.Properties.Resources.resources
+C:\Users\justi\OneDrive\Escritorio\proyecto subir\Proyecto final - Sistema de facturacion\obj\Debug\Proyecto final - Sistema de facturacion.csproj.GenerateResource.cache
+C:\Users\justi\OneDrive\Escritorio\proyecto subir\Proyecto final - Sistema de facturacion\obj\Debug\Proyecto final - Sistema de facturacion.csproj.CoreCompileInputs.cache
+C:\Users\justi\OneDrive\Escritorio\proyecto subir\Proyecto final - Sistema de facturacion\obj\Debug\Proyecto final - Sistema de facturacion.csproj.CopyComplete
